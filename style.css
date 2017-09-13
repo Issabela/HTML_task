@@ -1,0 +1,30 @@
+
+#div1{
+	height:100px;
+	width:1354px;
+	background-color:Black;
+	margin-bottom:30px;
+	position:fixed;
+	top:0px;
+}
+#title1{
+	font-size:30px;
+	font-family:"Times New Roman";
+	color:White;
+}
+img{
+	width:400px;
+	height:300px;
+	padding:30px;
+}
+table{
+	margin-top:130px;
+}
+#B{
+	margin-left:455px;
+	width:100px;
+	height:30px;
+}
+#nav{
+	margin:0;
+}
